@@ -1,0 +1,9 @@
+{     
+    "Set 24hr time format":
+        [
+                {
+                        "TYPE": "jobType.PASSTHROUGH",
+                        "SYNTAX": "su -c 'settings put system time_12_24 24';"
+                }
+        ]
+}
