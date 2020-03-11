@@ -1,9 +1,0 @@
-{     
-    "Set Time Zone":
-        [
-                {
-                        "TYPE": "jobType.PASSTHROUGH",
-                        "SYNTAX": "su -c 'settings put global time_zone America/Dallas';"
-                }
-        ]
-}
